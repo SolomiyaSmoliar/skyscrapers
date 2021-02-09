@@ -192,4 +192,4 @@ def check_skyscrapers(input_path: str):
 if __name__ == "__main__":
     import doctest
     doctest.testmod()
-    print(check_skyscrapers('C:/Users/Solomiya/Desktop/skyscrapers_state.txt'))
+    print(check_skyscrapers('skyscrapers_state.txt'))
